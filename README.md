@@ -1,0 +1,2 @@
+# ML-sem7
+LAB MANUAL
